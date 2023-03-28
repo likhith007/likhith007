@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Likhith Kumar Jalimedi</h1>
 <h3 align="center">A passionate Python Backend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likhith007" alt="likhith007" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/likhith94336710" target="blank"><img src="https://img.shields.io/twitter/follow/likhith94336710?logo=twitter&style=for-the-badge" alt="likhith94336710" /></a> </p>
 
 - 🌱 I’m currently learning **Python OOPS and DSA**
